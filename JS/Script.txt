@@ -1,0 +1,27 @@
+function carregarFoto()
+{
+    var msg = document.getElementById('msg')
+    var img = document.getElementById('imagem')
+    var hora = new Date()
+    var minuto = new Date()
+    var data = new Date()
+    var horaAtual = hora.getHours()
+    var minutoAtual = minuto.getMinutes() 
+    var dataAtual = data.getDate()
+    msg.innerHTML = `Agora são <strong>${horaAtual} h : ${minutoAtual} m</strong> do dia <strong>${dataAtual}</strong>.`
+    
+    if (hora >=0 && hora <12)
+    {
+        img.src = './IMG/pexelsAmanhecer.png'
+        document.body.style.background = '#ffefc7'
+
+    }else if(hora >= 12 && hora <18){
+        img.src = './IMG/pexelsPixabayAlvorecer.png'
+        document.body.style.background = '#ff7e2a'
+
+    }else{
+        img.src = './IMG/pexelsPixabayNoite.png'
+        document.body.style.background = '#041830'
+        document.h1.style.color = '#ffffff'
+    }
+}

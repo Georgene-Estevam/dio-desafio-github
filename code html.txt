@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./CSS/style.css" type="text/css">
+    <title>Relógio web</title>
+</head>
+
+<body onload="carregarFoto()">
+    <header>
+        <div><h1>Relógio Web</h1></div>
+    </header>
+ 
+    <section>
+        <div id="msg">
+        </div>
+
+        <div id="foto">
+            <img id="imagem" src="./IMG/pexelsAmanhecer.png" alt="">
+        </div>
+    </section>
+
+    <footer>
+        &copy; Desenvolvido por Georgene Estevam
+        <p><a href="http://www.gmail.com" target="_blank">E-mail: georgenevieira@gmail.com</a></p>
+        <p><img src="./IMG/logo-whatsapp.png" alt="logo whatsapp" width="17px"> (81) 9. 8727-7150 || <img src="./IMG/telefoneico.png" alt="ícone de telefone"> (81) 9. 9291-8916</p>
+    </footer>
+
+    <script src="./JS/scriptRelogio.js"></script>
+</body>
+</html>

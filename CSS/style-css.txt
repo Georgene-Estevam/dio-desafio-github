@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(60, 138, 228);
+    font-family: sans-serif;
+}
+
+header div{
+    background-color: aliceblue;
+    box-shadow: 5px 5px 5px #10101077;
+    border-radius: 10px;
+}
+
+h1{
+    color: #151515;
+    font-size: 30px;
+    text-align: center;
+}
+
+section{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #151515;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 5px #10101077;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 30px;
+    font-size: 19px;
+}
+
+div{
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    margin-top: 15px;
+    color: whitesmoke;
+    font-style: italic;
+    text-align: center;
+    font-size: 17px;
+}
+
+footer p a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+footer p {
+    font-style: normal;
+}
