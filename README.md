@@ -1,8 +1,10 @@
 Georgene Estevam
+
 Olá, esse arquivo em MarkDown é o desafio inicial de um projeto do Bootcamp Claro - Java com Spring Boot 2024 oferecido pela plataforma da DIO - Digital Innovation One. É através dessa oportunidade que estou em busca de ampliar ainda mais meus conhecimentos.
 
 
 🚀 Sobre mim
+
 Meu nome é Georgene Estevam sou estudante de ciências da computação, venho buscando ampliar meus conhecimentos na área de desenvolvimento Web e ingressar no ramo da programação.
 
 Desde a infância sou apaixonado por tecnologia, sempre tive a facilidade com o manuseio de computadores e sistemas operacionais. Me considero uma pessoa curiosa e tenho vontade de aprender um pouco mais sobre as áreas de desenvolvimento mobile e CyberSegurança, pois, são outras áreas que acho bastante interessante.
